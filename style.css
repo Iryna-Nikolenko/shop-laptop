@@ -470,5 +470,8 @@ span {
 }
 .filter-btn-submit:hover {
   background-color: white;
-  color: #2c71b8;
+  color: #021931;
+}
+.footer {
+  color: rgb(34, 8, 105);
 }
